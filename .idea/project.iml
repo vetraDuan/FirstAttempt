@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/爬虫课件6期/day23-09-19-scrapy解析数据与管道存储-02/duanmyslq" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/爬虫课件6期/day23-09-19-scrapy解析数据与管道存储-02/duanzimysql" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/爬虫课件6期/day23-09-19-scrapy解析数据与管道存储-02/vetra_danzi" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/爬虫课件6期/day24-09-21-scrapy管道与图片下载/deskbz" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/爬虫课件6期/day25-09-23-scrapy模拟登与抓取多页数据/duanzi_v" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/爬虫课件6期/day26-09-26-scrapy中间件/testSpider" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/venv" />
-    </content>
-    <orderEntry type="jdk" jdkName="Python 3.9 (venv)" jdkType="Python SDK" />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
   </component>
 </module>
