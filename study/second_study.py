@@ -8,7 +8,7 @@ def sum_number(n):
     su = 0
     for i in range(1, n + 1):
         su += i
-    print(su)
+    return su
 
 
 sum_number(100)
