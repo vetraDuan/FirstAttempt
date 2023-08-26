@@ -8,7 +8,7 @@ class Questions(models.Model):
     """
     包含一个问题和一个发布日期
     """
-    question_test = models.CharField(max_length=200)
+    question_text = models.CharField(max_length=200)
     pub_date = models.DateTimeField('date published')
 
 
@@ -18,5 +18,5 @@ class Choice(models.Model):
     另外 添加外键到Questions。
     """
     question = models.ForeignKey(Questions, on_delete=models.CASCADE)
-    choice_test = models.CharField(max_length=200)
+    choice_text = models.CharField(max_length=200)
     votes = models.IntegerField(default=0)
